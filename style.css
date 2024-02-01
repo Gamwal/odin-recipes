@@ -2,6 +2,10 @@ h1 {
     color: red;
 }
 
-li {
+ul li {
     background-color: aquamarine;
+}
+
+li {
+    background-color: pink;
 }
